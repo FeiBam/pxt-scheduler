@@ -1,0 +1,13 @@
+{
+  "name": "scheduler",
+  "version": "0.0.1",
+  "description": "A lightweight task scheduler for MakeCode",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "public": true,
+  "preferredEditor": "ts"
+}
